@@ -48,7 +48,7 @@ Projekt zakłada stworzenie uniwersalnej płyty głównej robota scalającej wsz
 * Lutowanie i montaż elektroniki
 * Wykonanie elementów mechanicznych i druk 3D
 * Tworzenie "Landing page" projektu 
-* PR i znajdowanie zastosowań (pomysł gier na bazie projektu)
+* PR i znajdowanie zastosowań (pomysł gier na bazie projektu)bb
 
 ![](/img/grupa.jpg)
 

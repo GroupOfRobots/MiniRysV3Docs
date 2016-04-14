@@ -1,4 +1,4 @@
-# bot
+# Mini Rysie
 Lab project
 
 ![](/img/mrys.jpg)

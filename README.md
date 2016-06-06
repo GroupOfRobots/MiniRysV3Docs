@@ -1,4 +1,4 @@
-# Mini Rysie
+# iRyś
 Lab project
 
 ![](/img/mrys.jpg)
@@ -8,7 +8,7 @@ Projekt zespołu balansujących robotów mobilnych. Zadaniem grupy robotów będ
 
 ## Funkcjonalność 
 * Lokalizacja w przestrzni zamkniętej ograniczinej nadajnikami
-* Przesyłanie obrazu i danych z czujników do komputera sterującego
+* Przesyłanie obrazu i danych z czujników w sieci WLAN
 * Mapowanie przestrzeni
 * Sterowanie za pomocą aplikacji mobilnej
 * Programowanie "On air" poszczególnych robotów 
@@ -19,14 +19,11 @@ Projekt zespołu balansujących robotów mobilnych. Zadaniem grupy robotów będ
 * Sterowniki DRV8825
 
 ### Elektronika
-* STM32 nucleo board
-* ARM v7< board
+* BeagleBone Green Wireless
 * Transceiver DMW1000 (lokalizacja)
-* Moduł WiFi (komunikacja z siecią)
-* Diody WS2812B (sygnalizacja aktualnego stanu robota)
 
 ### Sensoryka
-* Czujniki odległości SHARP (cyfrowe)
+* Czujniki odległości (ultradźwiękowe)
 * IMU MPU6050
 * Gniazda do podłączenia innych czujników (w zależonści od wykorzystania)
 

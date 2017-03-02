@@ -1,7 +1,6 @@
 # iRyś
-Lab project
 
-![](/img/irys2.JPG)
+![](/img/rendery%20v2/irys2.JPG)
 
 # Abstrakt
 Projekt zespołu balansujących robotów mobilnych. Zadaniem grupy robotów będzie poruszanie się w zamkniętej przestrzeni i współpraca przy przesuwaniu obiektów. 

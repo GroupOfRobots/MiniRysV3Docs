@@ -1,5 +1,8 @@
 # iRyś
 
+# Jak zacząć ??? 
+Niezbędne instrukcje znajdują się na w zakładce wiki tego repozytorium 
+
 ![](/img/rendery%20v2/irys2.JPG)
 
 # Abstrakt

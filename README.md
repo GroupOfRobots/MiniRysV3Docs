@@ -1,7 +1,9 @@
 # iRyś
-Lab project
 
-![](/img/irys2.JPG)
+# Jak zacząć ??? 
+Niezbędne instrukcje znajdują się na w zakładce wiki tego repozytorium 
+
+![](/img/rendery%20v2/irys2.JPG)
 
 # Abstrakt
 Projekt zespołu balansujących robotów mobilnych. Zadaniem grupy robotów będzie poruszanie się w zamkniętej przestrzeni i współpraca przy przesuwaniu obiektów. 
@@ -26,27 +28,5 @@ Projekt zespołu balansujących robotów mobilnych. Zadaniem grupy robotów będ
 * Czujniki odległości (ultradźwiękowe)
 * IMU MPU6050
 * Gniazda do podłączenia innych czujników (w zależonści od wykorzystania)
-
-## Wykonanie
-Projekt zakłada stworzenie uniwersalnej płyty głównej robota scalającej wszyskie moduły, umożliwiającej proste podłączenie wszystkich elementów i ramy wydrukowanej na drukarce 3D. Dodatkowo w skład zestawu wchodziły bedą moduły lokalizacji (do umieszczenia wewnątrz pomieszczenia jako punkty odniesienia przy lokalizacji). Do organizacji pracy zespołu robotów zostanie opracowane oprogramowanie w języku C++ zaimplementowane na komputerze pełniącym jednocześnie rolę routera WiFi z którym będą połączone wszystkie roboty. 
-
-### Zadania
-* Projekt CAD elementów mechanicznych 
-* Schemat oraz projekt PCB płyty głównej robota
-* Schemat oraz PCB modułu lokalizacji
-* Program z obsługą sieci na komputer sterujący
-* Program na mikrokontroler sterujący robotem 
-* Program na mikrokontroler w module lokalizacji
-* Dokumentacja projektu 
-* Matematyczno-Fizyczny opis algorytmów (lokalizacja i sterowanie)
-* Aplikacja android (Pilot do zdalnego sterowania robotem) 
-* Testowanie software
-* Testowanie fizyczne
-* Lutowanie i montaż elektroniki
-* Wykonanie elementów mechanicznych i druk 3D
-* Tworzenie "Landing page" projektu 
-* PR i znajdowanie zastosowań (pomysł gier na bazie projektu)bb
-
-![](/img/fine2.jpg)
 
 
